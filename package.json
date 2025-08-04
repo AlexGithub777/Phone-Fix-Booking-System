@@ -1,7 +1,7 @@
 {
-    "name": "project2",
+    "name": "phone-fix-booking-system",
     "version": "0.1.0",
-    "homepage": "https://AlexGithub777.github.io/project2",
+    "homepage": "https://AlexGithub777.github.io/Phone-Fix-Booking-System",
     "private": true,
     "dependencies": {
         "@googlemaps/js-api-loader": "^1.16.2",
