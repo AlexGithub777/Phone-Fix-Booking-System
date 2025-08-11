@@ -1,7 +1,7 @@
 {
     "name": "phone-fix-booking-system",
     "version": "0.1.0",
-    "homepage": "https://AlexGithub777.github.io/Phone-Fix-Booking-System",
+    "homepage": ".", 
     "private": true,
     "dependencies": {
         "@googlemaps/js-api-loader": "^1.16.2",
@@ -43,6 +43,6 @@
     },
     "devDependencies": {
         "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
-        "gh-pages": "^6.0.0"
+        "gh-pages": "^6.3.0"
     }
 }
