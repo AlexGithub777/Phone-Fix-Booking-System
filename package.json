@@ -1,7 +1,6 @@
 {
     "name": "phone-fix-booking-system",
     "version": "0.1.0",
-    "homepage": ".", 
     "private": true,
     "dependencies": {
         "@googlemaps/js-api-loader": "^1.16.2",

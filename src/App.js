@@ -14,7 +14,7 @@ function App() {
         <>
             {/*React Fragment: serve as parent component in JSX and doesn't add anything to the DOM*/}
 
-            <Router basename="/Phone-Fix-Booking-System">
+            <Router basename="/">
                 <Header />
                 <Routes>
                     <Route path="/" element={<Home />} />
